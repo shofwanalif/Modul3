@@ -65,5 +65,6 @@ public class KalkulatorBeratBadanIdealRef {
      **/
     private void tampilkanBeratIdeal(double beratIdeal) {
         System.out.println("Berat badan ideal Anda adalah: " + beratIdeal + " kg");
+        System.out.println("ayo olahraga");
     }
 }
